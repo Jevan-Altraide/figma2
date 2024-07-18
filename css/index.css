@@ -3,8 +3,8 @@
     color: white;
     background-attachment: fixed;
     margin-top: -5px;
-    min-height: 700px;
-    min-width: 1920px;
+    height: 313px;
+    width: 1920px;
 }
 .it header{
     font-family: "Montserrat", sans-serif;
